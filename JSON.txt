@@ -1,0 +1,55 @@
+{
+"JSON": [
+{
+"struct4":
+{
+"var8": [short],
+"var7": [bool, ptr],
+"var6": [double, tab, 13],
+"var5": [std::string],
+"var4": [struct3, ptr],
+"var3": [bool, ptr],
+"var2": [struct3, tab, 2],
+"var1": [struct3]
+},
+"struct3":
+{
+"var8": [struct5, ptr],
+"var7": [int],
+"var6": [float, tab, 14],
+"var5": [bool, ptr],
+"var4": [struct1, ptr],
+"var3": [std::fstream],
+"var2": [int, tab, 5],
+"var1": [long long]
+},
+"struct2":
+{
+"var5": [bool],
+"var4": [long],
+"var3": [long],
+"var2": [std::vector],
+"var1": [char, ptr]
+},
+"struct1":
+{
+"var6": [char],
+"var5": [bool, tab, 4],
+"var4": [int, ptr],
+"var3": [struct2],
+"var2": [long, ptr],
+"var1": [std::fstream]
+},
+"struct5":
+{
+"var9": [float, tab, 3],
+"var8": [std::vector],
+"var7": [struct4],
+"var6": [std::vector, ptr],
+"var5": [long long],
+"var4": [long],
+"var3": [std::vector, ptr],
+"var2": [long double],
+"var1": [bool]
+},
+}
